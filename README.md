@@ -3,8 +3,8 @@
 The purpose of this project is to practise python by visualizing monthly spending in charts and show how much is user spending on different commodities.
 
 Parts:
-1. load data from monthly spending pdf file
-2. parse data into json object with following properties:
+1. Load data from monthly spending pdf file
+2. Parse data into json object with following properties:
 
 `{
   date: date,
